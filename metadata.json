@@ -1,0 +1,5 @@
+{
+  "name": "DrowsiGuard AI",
+  "description": "Real-time drowsiness detection using computer vision and facial landmark analysis. Monitors eye openness (EAR) to detect fatigue and alert the user.",
+  "requestFramePermissions": ["camera"]
+}
